@@ -1,19 +1,25 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming
-  - Structured programming
-  - Non-structured programming
-  - Functional programming
-  - Prototype-based programming
-  - Object-oriented programming
-  - Object-based programming
+  - Procedural programming 🎓 known
+  - Imperative programming 👂 heard
+  - Structured programming 🎓 known
+  - Non-structured programming 🎓 known
+  - Functional programming 🎓 known
+  - Prototype-based programming 🎓 known
+  - Object-oriented programming 🙋 explained
+  - Object-based programming 👂 heard
   - Generic programming
   - Concurrent computing
+<<<<<<< HEAD
+  - Asyncronous programming 👂 heard
+  - Parallel programming 👂 heard
+  - Reactive programming 🎓 known
+=======
   - Asynchronous programming
   - Parallel programming
   - Reactive programming
+>>>>>>> 8765fa8111bfce69fb089873333d15ce57078733
   - Functional-reactive (FRP)
   - Automata-based programming
   - Domain-specific languages
@@ -25,26 +31,26 @@
   - Information hiding
   - Aspect-oriented programming
   - Anemic domain model
-  - Class composition
+  - Class composition 🎓 known
 - OOP basics
-  - Constructor
-  - Operator `new`
-  - Static method
-  - Method
-  - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
-  - Field declarations
-  - Inheritance
-  - Parent class
+  - Constructor 🎓 known
+  - Operator `new` 🖐️ used
+  - Static method 🙋 explained
+  - Method 🖐️ used
+  - Async method 👂 heard
+  - Getters, Setters 🎓 known
+  - Public fields 🎓 known
+  - Private fields 🎓 known
+  - Field declarations 🎓 known
+  - Inheritance 🎓 known
+  - Parent class 🎓 known
   - Polymorphism
   - Abstract class
   - Interface
   - Encapsulation
   - Hidden class
   - Object form
-  - Instance
+  - Instance 🎓 known
   - Introspection
   - Reflection
   - The diamond problem
@@ -71,10 +77,10 @@
   - Observer
   - Strategy
   - Facade
-  - Proxy
+  - Proxy 👂 heard
   - Chain of Responsibility
   - Command
-  - Iterator
+  - Iterator 👂 heard
   - State
   - Bridge
   - Builder

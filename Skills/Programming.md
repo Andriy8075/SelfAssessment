@@ -1,71 +1,81 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model
-  - Modeling
+  - Model 🎓 known
+  - Modeling 🎓 known
   - Subject domain
-  - Algorithm
-  - Syntax
-  - Semantics
-  - Abstraction
-  - Paradigm
-  - Programm
-  - Programming paradigm
-  - Programming language
-  - Contract
-  - Module
-  - Library
-  - Package
-  - Component
-  - Framework
-  - Platform
-  - Source code
-  - Object code
-  - Machine code
-  - Microcode
-  - Software engineering
+  - Algorithm 🙋 explained
+  - Syntax 🙋 explained
+  - Semantics 🎓 known
+  - Abstraction 🎓 known
+  - Paradigm 🎓 known
+  - Programm 🎓 known
+  - Programming paradigm 🎓 known
+  - Programming language 🎓 known
+  - Contract 🎓 known
+  - Module 🖐️ used
+  -  Library 🎓 known
+  - Package 🎓 known
+  - Component 🎓 known
+  - Framework 🎓 known
+  - Platform 🎓 known
+  -  Source code 👂 heard
+  - Object code 👂 heard
+  - Machine code 👂 heard
+  - Microcode 👂 heard
+  - Software engineering 🎓 known
   - Decomposition
   - Control flow
   - Data flow
   - Code reuse
   - Defensive programming
-  - Don't repeat yourself (DRY)
-  - KISS principle
+  - Don't repeat yourself (DRY) 🎓 known
+  - KISS principle 🎓 known
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
-  - Scalar
-  - Literal
-  - Expression
-  - Heap
-  - Function
-  - Procedure
-  - Method
-  - Class
-  - Prototype
-  - Event
-  - Type
-  - Flag
-  - Lexical scope
-  - Code block
-  - Conditions
-  - Loops
-  - Assignment
-  - Regular expression
-  - Interface
-  - Namespaces
-  - Call stack
-  - Naming conventions
-  - Coding conventions
-  - Camel case
-  - Snake case
-  - Kebab case
-  - Trailing commas
+  - Value 🙋 explained
+  - Identifier 🙋 explained
+  - Variable 🙋 explained
+  - Constant 🔬 researched 🙋 explained
+  - Scalar 🙋 explained
+  - Literal 🙋 explained
+  - Expression 🙋 explained
+  - Heap 🎓 known
+  - Function 🔬 researched
+  - Procedure 🎓 known
+  - Method 🙋 explained
+  - Class 🙋 explained
+  - Prototype 🙋 explained
+  - Event 🙋 explained
+  - Type 🙋 explained
+  - Flag 🎓 known
+  - Lexical scope 🙋 explained
+  - Code block 🎓 known
+  - Conditions 🎓 known
+  - Loops 🔬 researched
+  - Assignment 🙋 explained
+  - Regular expression 🎓 known
+  - Interface 🎓 known
+  - Namespaces 🎓 known
+  - Call stack 🎓 known
+  - Naming conventions 🎓 known
+  - Coding conventions 🎓 known
+  - Camel case 🖐️ used
+  - Snake case 🎓 known
+  - Kebab case 🎓 known
+  - Trailing commas 🎓 known
   - Return early
   - Fail-fast
 - Types
+<<<<<<< HEAD
+  - Primitive types 🙋 explained
+  - Reference types 🙋 explained
+  - Type systems 🎓 known
+  - Strong typing 🎓 known
+  - Weak typing 🎓 known
+  - Duck typing 👂 heard
+  - Static typing 👂 heard
+  - Dynamic typing 👂 heard
+=======
   - Primitive types
   - Reference types
   - Type systems
@@ -74,6 +84,7 @@
   - Duck typing
   - Static typing
   - Dynamic typing
+>>>>>>> 8765fa8111bfce69fb089873333d15ce57078733
   - Nominal typing
   - Structural typing
   - Explicit typing
@@ -81,68 +92,80 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature
-  - Argument
-  - Parameter
-  - Pure function
-  - Lambda expression
-  - Side effects
-  - Closure
-  - Partial application
-  - Currying
-  - Higher order
-  - Recursion
-  - Tail call optimisation
-  - Callback
-  - Listener
-  - Composition
-  - Pipe
-  - Memoize
-  - Wrapper
-  - Functor
-  - Monad
-  - Monoid
-  - Generator
-  - Coroutine
+  - Signature 🎓 known
+  - Argument 🎓 known
+  - Parameter 🎓 known
+  - Pure function 🙋 explained
+  - Lambda expression 🖐️ used
+  - Side effects 🙋 explained
+  - Closure 🙋 explained
+  - Partial application 🙋 explained
+  - Currying 🙋 explained
+  - Higher order 🎓 known
+  - Recursion 🙋 explained
+  - Tail call optimisation 🎓 known
+  - Callback 🎓 known
+  - Listener 🖐️ used
+  - Composition 🎓 known
+  - Pipe 🎓 known
+  - Memoize 🎓 known
+  - Wrapper 🎓 known
+  - Functor 🎓 known
+  - Monad 🎓 known
+  - Monoid 🎓 known
+  - Generator 🎓 known
+  - Coroutine 👂 heard
 - Data structures
-  - Array
-  - Structure
-  - Record
-  - Enum
-  - Instance
-  - Object
-  - Collection
-  - Set
-  - Hash table
+<<<<<<< HEAD
+  - Array 🙋 explained
+  - Structure 🎓 known
+  - Record 🎓 known
+  - Enum 🎓 known
+  - Instance 🎓 known
+  - Cbject
+  - Collection 🎓 known
+  - Set 🎓 known
+  - Hash table 🎓 known
+=======
+  - Array 🙋 explained
+  - Structure 🎓 known
+  - Record 🎓 known
+  - Enum 🎓 known
+  - Instance 🎓 known
+  - Object 🙋 explained
+  - Collection 🎓 known
+  - Set 🎓 known
+  - Hash table 🎓 known
+>>>>>>> 8765fa8111bfce69fb089873333d15ce57078733
   - Linked list
   - Doubly list
   - Unrolled list
   - Circular list
-  - Queue
-  - Stack
-  - Deque
-  - Tree
-  - Graph
-  - Iterator
+  - Queue 🔬 researched
+  - Stack 🙋 explained
+  - Deque 🚀 constructed
+  - Tree 🎓 known
+  - Graph 🎓 known
+  - Iterator 🙋 explained
   - Mutable state
   - Immutable state
-  - Serialization
-  - String parsing
-  - JSON
+  - Serialization 🖐️ used
+  - String parsing 🖐️ used
+  - JSON 🖐️ used
   - JSON5
   - YAML
 - Networking
   - DNS
   - CDN
   - CORS
-  - IPv4
-  - IPv6
+  - IPv4 👂 heard
+  - IPv6 👂 heard
   - NAT
-  - URL
+  - URL 👂 heard
   - URN
   - URI
 - Process and tools
-  - Compiler
+  - Compiler 🖐️ used
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
@@ -152,73 +175,83 @@
   - Linker
   - Dynamic linking
   - Static linking
-  - Runtime
-  - Virtual machine
+  - Runtime 🎓 known
+  - Virtual machine 🎓 known
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger
+  - Debugger 🖐️ used
   - Tracing
   - Garbage collection
-  - Refactoring
-  - Code review
+  - Refactoring 🎓 known
+  - Code review 🎓 known
   - Exception
   - Unittesting
+<<<<<<< HEAD
+  - git 🖐️ used
+  - Hithub 🖐️ used
+=======
   - git
   - Github
+>>>>>>> 8765fa8111bfce69fb089873333d15ce57078733
   - Docker
   - Kubernetes
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers
-  - Hard code
-  - Soft code
-  - Cryptic code
+  - Magic numbers 🎓 known
+  - Hard code 🎓 known
+  - Soft code 🎓 known
+  - Cryptic code 🎓 known
   - Improbability factor
-  - Accidental complexity
+  - Accidental complexity 🎓 known
   - Action at a distance
-  - Spaghetti
-  - Silver bullet
-  - Not invented here
-  - Dead code
-  - Unreachable code
-  - Duplicate code
-  - Premature optimization
-  - Micro-optimization
-  - Nested loops
-  - Long method/function/procedure
-  - Long inheritance
-  - Large class/file
-  - Too many parameters
+  - Spaghetti 🎓 known
+  - Silver bullet 🎓 known
+  - Not invented here 🎓 known
+  - Dead code 🎓 known
+  - Unreachable code 🎓 known
+  - Duplicate code 🎓 known
+  - Premature optimization 🎓 known
+  - Micro-optimization 🎓 known
+  - Nested loops 🎓 known
+  - Long method/function/procedure 🎓 known
+  - Long inheritance 🎓 known
+  - Large class/file 🎓 known
+  - Too many parameters 🎓 known
   - Pass-through parameters
-  - Accumulate and fire
-  - Use switch/case
-  - Temporary field
+  - Accumulate and fire 👂 heard
+  - Use switch/case 🙋 explained
+  - Temporary field 🎓 known
   - Handle object as instances and hashes at the same time
-  - Use fields instead of arguments
+  - Use fields instead of arguments 🎓 known
   - Data clump
   - Feature envy
   - Monkey patch
   - Yo-yo problem
 - Runtimes and virtual machines
-  - Bytecode
-  - V8
+  - Bytecode 🎓 known
+  - V8 🖐️ used
   - VJM
   - CLR
   - Mono
+<<<<<<< HEAD
+- Operation systems
+  - Interrupts 🎓 known
+=======
 - Operating systems
   - Interrupts
+>>>>>>> 8765fa8111bfce69fb089873333d15ce57078733
   - Drivers
   - Kernel
   - Ring
   - Virtual memory
   - File system
-  - Linux
+  - Linux 🖐️ used
   - Unix
   - BSD
   - MacOS
-  - Windows
+  - Windows 🖐️ used
   - Real-time OS
   - Embedded OS
 - Standards
@@ -234,6 +267,6 @@
   - ISO
   - MIME
   - OWASP
-  - UTF-8
+  - UTF-8 🎓 known
   - W3C
   - ODMG

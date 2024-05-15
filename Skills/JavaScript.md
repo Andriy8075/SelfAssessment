@@ -1,122 +1,132 @@
 ## JavaScript
 
 - Language
-  - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
-  - `BigInt`
-  - `String`
-  - `Symbol`
-  - `Infinity`
-  - `NaN`
-  - `undefined`
-  - `null`
-  - `this`
-  - `instanceof`
-  - `...spread`
-  - `...rest`
-  - `typeof`
-  - Destructuring
-  - Generators
-  - Iterators
-  - Async generator
-  - Async iterator
-  - Chaining
-  - Optional chaining
+  - `Object` 🔬 researched
+  - `Function` 🔬 researched
+  - `Boolean` 🙋 explained
+  - `Number` 🎓 known
+  - `BigInt` 🎓 known
+  - `String` 🎓 known
+  - `Symbol` 🎓 known
+  - `Infinity` 🎓 known
+  - `NaN` 🎓 known
+  -`undefined` 🖐️ used
+  -`null` 🖐️ used
+  -`this` 🖐️ used
+  -`instanceof` 🖐️ used
+  -`...spread` 🖐️ used
+  -`...rest` 🖐️ used
+  -`typeof` 🖐️ used
+  - Destructuring 🎓 known
+  - Generators 🎓 known
+  - Iterators 🙋 explained
+  - Async generator 👂 heard
+  - Async iterator 👂 heard
+  - Chaining 🎓 known
+  - Optional chaining 👂 heard
   - IIFE
   - Async IIFE
-  - `global`
-  - `globalThis`
-  - `window`
-  - Getters and setters
-  - `__proto__`
-  - `prototype`
-  - Equality operators
-  - Logical operators
-  - Logical Assignment
-  - Bitwise operators
-  - Ternary operator
-  - `void`
-  - `yield`
-  - `await`
+  - `global` 👂 heard
+  - `globalThis` 👂 heard
+  - `window` 👂 heard
+  - Getters and setters 🎓 known
+  - `__proto__` 🎓 known
+  - `prototype` 🎓 known
+  - Equality operators 🙋 explained
+  - Logical operators 🙋 explained
+  - Logical Assignment 🎓 known
+  - Bitwise operators 🎓 known
+  - Ternary operator 🖐️ used
+  - `void` 🎓 known
+  - `yield` 👂 heard
+  - `await` 🎓 known
   - Template literal
-  - Strict mode
+  - Strict mode 🎓 known
   - Hoisting
-  - `delete`
-  - `in`
-  - `super`
-  - `eval`
-  - `static`
-  - `Number.parseInt`
-  - `Number.parseFloat`
-  - Property descriptors
-  - Sealing properties
+  - `delete` 🖐️ used
+  - `in` 🎓 known
+  - `super` 🎓 known
+  - `eval` 🎓 known
+  - `static` 🎓 known
+  -`Number.parseInt` 🖐️ used
+  - `Number.parseFloat` 🎓 known
+  - Property descriptors 🎓 known
+  - Sealing properties 👂 heard
   - Freezing properties
   - Computed properties
   - Instance class fields
-  - Static class fields
+  - Static class fields 👂 heard
   - Private class fields
-  - Private class methods
+  - Private class methods 🎓 known
 - Statements
-  - `if`
-  - `while`
-  - `do..while`
-  - `for`
-  - `for..in`
-  - `for..of`
-  - `for await`
-  - `throw`
-  - `break`
-  - `continue`
-  - `import`
-  - `export`
-  - `label`
-  - `try..catch`
-  - `switch`
-  - `class`
-  - `extends`
-  - `with`
-  - `new`
+  - `if` 🔬 researched
+  - `while` 🙋 explained
+  - `do..while` 🙋 explained
+  - `for` 🙋 explained
+  - `for..in` 🎓 known
+  - `for..of` 🙋 explained
+  - `for await` 👂 heard
+  - `throw` 🎓 known
+  -`break` 🖐️ used
+  -`continue` 🖐️ used
+  -`import` 🖐️ used
+  -`export` 🖐️ used
+  - `label` 🎓 known
+  - `try..catch` 🙋 explained
+  - `switch` 🎓 known
+  - `class` 🖐️ used
+  - `extends` 🎓 known
+  - `with` 🎓 known
+  - `new` 🙋 explained
 - Functions
-  - Arrow function
-  - Async function
-  - Function declaration
-  - Function expression
-  - Default parameters
-  - Functional object
-  - `Function.prototype.call`
-  - `Function.prototype.bind`
-  - `Function.prototype.apply`
-  - `return`
+  - Arrow function 🙋 explained
+  - Async function 🎓 known
+  - Function declaration 🙋 explained
+  - Function expression 🎓 known
+  - Default parameters 🙋 explained
+  - Functional object 🎓 known
+  - `Function.prototype.call` 🎓 known
+  -`Function.prototype.bind` 🖐️ used
+  - `Function.prototype.apply` 🎓 known
+  -`return` 🖐️ used
 - Data structures
-  - `Array`
-  - `Map`
-  - `Set`
-  - `WeakMap`
-  - `WeakSet`
+<<<<<<< HEAD
+  - `Array` 🙋 explained
+  - `Map` 🙋 explained
+  - `Set` 🙋 explained
+  - Weak collections 🎓 known
+  - Typed arrays 🎓 known
+  - Mixins 🎓 known
+  - `Object.assign` 🎓 known
+=======
+  - `Array` 🙋 explained
+  - `Map` 🎓 known
+  - `Set` 🎓 known
+  - `WeakMap` 🎓 known
+  - `WeakSet` 🎓 known
   - Typed arrays
   - Mixins
   - `Object.assign`
+>>>>>>> 8765fa8111bfce69fb089873333d15ce57078733
 - Standard classes and namespaces
-  - `Proxy`
-  - `RegExp`
-  - `Date`
-  - `Math`
-  - `Reflect`
-  - `Error`
+  - `Proxy` 🎓 known
+  - `RegExp` 🎓 known
+  - `Date` 🎓 known
+  - `Math` 🎓 known
+  - `Reflect` 👂 heard
+  - `Error` 🎓 known
   - `Atomics`
-  - `JSON`
+  - `JSON` 🖐️ used
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
-  - `Promise`
-  - `console`
-  - Timers
+  - `Promise` 🎓 known
+  - `console` 🎓 known
+  - Timers 🎓 known
 - Infrastructure
-  - V8
-  - Node.js
-  - npm
-  - prettier
-  - MDN
+  -V8 🖐️ used
+  -Node.js 🖐️ used
+  -npm 🖐️ used
+  -prettier 🖐️ used
+  -MDN 🖐️ used
   - TC39
